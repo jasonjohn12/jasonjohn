@@ -8,7 +8,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/jasonjohn12/jasonjohn',
   //siteLogo: '/static/images/logo.png',
   image: '/static/images/jason.jpeg',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/jason.jpeg',
   email: 'jasonjohn12@gmail.com',
   github: 'https://github.com/jasonjohn12',
   twitter: 'https://twitter.com/jasonjohn12',
