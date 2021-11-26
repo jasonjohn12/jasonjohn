@@ -27,8 +27,12 @@ export default function Home({ posts }) {
               👋
             </span>
           </h1>
-          <h2 className="text-lg prose text-gray-600 dark:text-gray-400">
-            {`${siteMetadata.description}. `}
+          <h2 className=" pb-6 text-lg prose text-gray-700 dark:text-gray-300">
+            I am a software engineer in Kansas City. I enjoy working with people and wanted to share
+            what I have learned.
+          </h2>
+          <h2 className="text-lg prose text-gray-700 dark:text-gray-400">
+            {`Aside from programming, I enjoy traveling, eating BBQ and hanging out with my friends and family.`}
           </h2>
         </div>
       </div>
