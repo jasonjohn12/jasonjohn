@@ -18,9 +18,9 @@ const siteMetadata = {
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
-    plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
-    simpleAnalytics: false, // true or false
+    plausibleDataDomain: 'jasonjohn.dev', // e.g. tailwind-nextjs-starter-blog.vercel.app
     googleAnalyticsId: 'UA-213756369-1',
+    simpleAnalytics: false, // true or false
   },
   newsletter: {
     // supports mailchimp, buttondown, convertkit
