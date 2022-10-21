@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Jason John',
   author: 'Jason John',
   headerTitle: 'Jason John',
-  description: 'Jason John Dev',
+  description: 'Jason John',
   language: 'en-us',
   siteUrl: 'https://jasonjohn.dev',
   siteRepo: 'https://github.com/jasonjohn12/jasonjohn',
